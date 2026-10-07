@@ -3,6 +3,7 @@ Code for constructing an AI-focused socio-technical knowledge graph that links a
 
 The resulting dataset (1,442,023 entities across 10 node tables and 98,870,658 relationships across 15 edge tables) is openly available on Kaggle:
 **https://doi.org/10.34740/kaggle/ds/11349559**
+Archived version: https://doi.org/10.5281/zenodo.23213724
 
 ## Schema
 
