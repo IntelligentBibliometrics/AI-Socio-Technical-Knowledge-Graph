@@ -6,7 +6,7 @@ The resulting dataset (1,442,023 entities across 10 node tables and 98,870,658 r
 
 ## Schema
 
-<img width="1495" height="1766" alt="Untitled (2)" src="https://github.com/user-attachments/assets/bdae509f-dbd6-4019-8f09-c49d44512df2" />
+<img width="1495" height="1766" alt="Untitled (3)" src="https://github.com/user-attachments/assets/90365c00-2083-4c3c-8104-9d5af0bb758c" />
 
 ## Pipeline
 
